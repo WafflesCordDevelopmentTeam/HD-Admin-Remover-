@@ -1,6 +1,6 @@
 A Script That Removes The HD Admin Plugin From A Game That Has It's Plugin A Very Simple Script To Use That Does A Simple Thing 
 
-Discord: nnatsukawa (fault)
+Discord: kz_k1 (Hoshimi)
 
 Thanks For Using The Script And Also Sorry If Both Of The Loadstring's Don't Work
 
